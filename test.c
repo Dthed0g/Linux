@@ -1,7 +1,8 @@
 include<stdio.h>
 
 int main(void){
-	printf("testing..\n");\
+	printf("adadadada");
+	printf("balabala");
 		return 0;
 }
 
